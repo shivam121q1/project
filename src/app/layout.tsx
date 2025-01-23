@@ -27,16 +27,16 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "LoginKaro",
   description: "Login page for LoginKaro. Secure your account with ease.",
-  authors: [{ name: "LoginKaro", url: "https://www.login-karo.com" }], 
+  authors: [{ name: "LoginKaro", url: "project-five-rust.vercel.app" }], 
   
   openGraph: {
     title: "LoginKaro | Login",
     description: "Login page for LoginKaro. Secure your account with ease.",
-    url: "https://www.login-karo.com/",
+    url: "project-five-rust.vercel.app",
     siteName: "LoginKaro",
     images: [
       {
-        url: "https://www.login-karo.com",
+        url: "https://image-processor-storage.s3.us-west-2.amazonaws.com/uploads/42bea90a35b8c48426c89309abdabbbd/image-mods-modifypng.png",
         width: 1200,
         height: 630,
         alt: "LoginKaro Login",
